@@ -1,0 +1,40 @@
+/*font-family: Abel*/
+@font-face{
+    font-family: Abel;
+    src: url('../fonts/abel/Abel-Regular.ttf');
+}
+/*font-family: Anton*/
+@font-face{
+    font-family: Anton;
+    src: url('../fonts/anton/Anton-Regular.ttf');
+}
+/*font-family:Livvic-Black*/
+@font-face{
+    font-family: Livvic-Black;
+    src: url('../fonts/livvic/Livvic-Black.ttf');
+}
+/*font-family:Livvic-Regular*/
+@font-face{
+    font-family: Livvic-Regular;
+    src: url('../fonts/livvic/Livvic-Regular.ttf');
+}
+/*font-family: Livvic-Bold*/
+@font-face{
+    font-family: Livvic-Bold;
+    src: url('../fonts/livvic/Livvic-Bold.ttf');
+}
+/*font-family:Roboto-Regular*/
+@font-face{
+    font-family: Roboto-Regular;
+    src: url('../fonts/roboto/Roboto-Regular.ttf');
+}
+/*font-family:Roboto-Bold*/
+@font-face{
+    font-family: Roboto-Bold;
+    src: url('../fonts/roboto/Roboto-Bold.ttf');
+}
+/*font-family:Roboto-Italic*/
+@font-face{
+    font-family: Roboto-Italic;
+    src: url('../fonts/roboto/Roboto-Italic.ttf');
+}
