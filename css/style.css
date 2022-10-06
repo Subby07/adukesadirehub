@@ -717,23 +717,24 @@ footer .copyright{
     line-height: 25px;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* x Single Product x */
+
+
+/* Blog Page */
+
+ .blog-header{
+    background-image: url(/assets/b1.jpg);
+}
+
+
+
+
+
+
+
+
+
+/* x Blog Page x */
 
 
 /*  Start Media Query  */
